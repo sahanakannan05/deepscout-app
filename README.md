@@ -31,14 +31,14 @@ The result: instead of manually opening 10 browser tabs and piecing together not
 -->
 
 **Home screen**
-![DeepScout home screen](screenshots/home.png)
+![DeepScout home screen](screenshots/home.PNG)
 
 **Pipeline running**
-![Pipeline in progress](screenshots/running.png)
+![Pipeline in progress](screenshots/running.PNG)
 
 **Final report + critic feedback**
-![Results view](screenshots/results.png)
-![critique view](screenshots/critique.png)
+![Results view](screenshots/results.PNG)
+![critique view](screenshots/critique.PNG)
 
 ## Tech stack
 
